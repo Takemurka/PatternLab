@@ -1,0 +1,15 @@
+B:\projects\paterns\obj\Debug\net7.0\paterns.csproj.AssemblyReference.cache
+B:\projects\paterns\obj\Debug\net7.0\paterns.GeneratedMSBuildEditorConfig.editorconfig
+B:\projects\paterns\obj\Debug\net7.0\paterns.AssemblyInfoInputs.cache
+B:\projects\paterns\obj\Debug\net7.0\paterns.AssemblyInfo.cs
+B:\projects\paterns\obj\Debug\net7.0\paterns.csproj.CoreCompileInputs.cache
+B:\projects\paterns\bin\Debug\net7.0\paterns.exe
+B:\projects\paterns\bin\Debug\net7.0\paterns.deps.json
+B:\projects\paterns\bin\Debug\net7.0\paterns.runtimeconfig.json
+B:\projects\paterns\bin\Debug\net7.0\paterns.dll
+B:\projects\paterns\bin\Debug\net7.0\paterns.pdb
+B:\projects\paterns\obj\Debug\net7.0\paterns.dll
+B:\projects\paterns\obj\Debug\net7.0\refint\paterns.dll
+B:\projects\paterns\obj\Debug\net7.0\paterns.pdb
+B:\projects\paterns\obj\Debug\net7.0\paterns.genruntimeconfig.cache
+B:\projects\paterns\obj\Debug\net7.0\ref\paterns.dll
